@@ -1,2 +1,2 @@
-# EJ-Paper-Summer-2024
-Project repository for Environmental Justice portion of thesis 2024.
+# Water justice: Empirical analysis of U.S. patterns and regional heterogeneity
+Project repository for Water justice: Empirical analysis of U.S. patterns and regional heterogeneity.
